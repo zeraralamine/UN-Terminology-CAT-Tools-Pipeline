@@ -5,7 +5,7 @@ A Python script that pulls clean French-Arabic terminology from the United Natio
 
 **The Problem**
 
-While the UN provides massive, free terminology databases, they are notoriously difficult for translators to use. The standard CSV exports mash all six UN languages into single columns with randomized rows. What's even more difficult is that opening these files in Excel often corrupts Right-to-Left scripts like Arabic into unreadable symbols. Manually cleaning this data takes hours.
+While the UN provides massive, free terminology databases, they are notoriously difficult for translators to use. The standard CSV exports mash all six UN languages into single columns with randomized rows. What's even more difficult is that opening these files in Excel often corrupts Right-to-Left scripts like Arabic into unreadable symbols. 
 
 **The Solution**
 
